@@ -58,18 +58,28 @@ Polymorphism is the ability of an object to take on many forms.
 
 # Structure of a c++ program
 -----------
->Documentations 
+>
+### Documentations 
+------------
     the documentation is the information about the program.
->preprocessor directives
+>
+### preprocessor directives
+------------
     the preprocessor directives are instructions that are processed before the compilation of the program.
     1. header file inclusion
     2. macro definition
-  
->class definition
-    the class definition is the definition of the class.        
->member functions definition
+
+>  
+### class definition
+------------
+    the class definition is the definition of the class.  
+>      
+### member functions definition
+------------
     the member functions definition is the definition of the member functions of the class.
->main function  
+>  
+### main function  
+------------
     the main function is the entry point of the program.
 
 
