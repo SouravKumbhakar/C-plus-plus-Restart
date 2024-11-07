@@ -2,7 +2,7 @@
 --------------------------------
 
 ## cout object
-----------  
+---------  
     cout object is used to display the output on the screen.this is an predefined object of ostream class.  
 
     a  program to display the output on the screen is:
@@ -27,7 +27,7 @@
     which then displays it on the screen/monitor.
     
 ## cin object
-----------  
+---------  
     cin object is used to take the input from the user.this is an predefined object of istream class.   
 
     its just like scanf() function in c language.  
