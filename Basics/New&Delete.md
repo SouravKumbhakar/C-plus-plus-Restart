@@ -18,3 +18,20 @@ but in case of new operator,
 ### type casting is not required.
 
 
+example of new operator:
+```cpp
+int *p = new int; // this is a dynamic allocation of memory for an single block of memory.
+``` 
+for multiple blocks of memory:
+```cpp
+int *p = new int[10]; // this is a dynamic allocation of memory for an array of 10 integers.
+``` 
+
+## Delete Operator
+------------
+delete is an operator in c++ used to deallocate the memory dynamically allocated by new operator.
+
+example of delete operator:
+```cpp
+delete p;
+``` 
